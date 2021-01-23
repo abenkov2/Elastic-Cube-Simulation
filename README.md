@@ -5,3 +5,7 @@ For this project I chose to do two simulations using the Material Point Method: 
 
 Code outputs sequence of poly files reperesenting the simulation over a number of frames. Used Houdini Apprentice to visualize poly files and render them into animated videos, as well as to apply post-processing effects such as surface texture, color, and lighting. 
 
+Demos:
+https://drive.google.com/drive/folders/13vfqyQrQS6bN6w59-sH6KZSL_MljzRxm?usp=sharing
+
+
