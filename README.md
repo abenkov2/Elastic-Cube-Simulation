@@ -1,9 +1,12 @@
-# Material-Point Method (MPM) Simulator for Elastic Objects – Rubber and Snow
-Material simulation for CIS563: Physically Based Animation
+Material-Point Method (MPM) Simulator for Elastic Objects – Rubber and Snow
+======================
 
-Fall 2020
+**Material simulation for CIS563: Physically Based Animation**
 
 Ari Benkov
+------------
+Fall 2020
+------------
 
 <img width="957" alt="snow" src="https://user-images.githubusercontent.com/54881867/126051048-f682bb1b-7d64-4838-9c54-6cf6c2dcedf1.png">
 
